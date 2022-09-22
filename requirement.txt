@@ -10,3 +10,8 @@ six @ file:///AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/pytho
 SQLAlchemy==1.4.41
 Werkzeug==2.2.2
 zipp==3.8.1
+datetime
+uuid
+PyJWT
+Flask-Restful
+Flask-Httpauth
